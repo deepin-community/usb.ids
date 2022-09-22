@@ -1,0 +1,7 @@
+#!/usr/bin/make -f
+%:
+	dh $@
+
+override_dh_auto_install:
+	install -d -m 755 $(CURDIR)/debian/tmp/var/lib/usbutils
+	install -m 644 $(CURDIR)/usb.ids $(CURDIR)/debian/tmp/var/lib/usbutils

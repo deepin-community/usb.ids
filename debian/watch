@@ -1,0 +1,2 @@
+version=4
+opts="searchmode=plain" http://www.linux-usb.org/usb.ids Version:\s+(\d+\.\d+\.\d+)
