@@ -2,8 +2,8 @@ Source: usb.ids
 Section: admin
 Priority: optional
 Maintainer: Aurelien Jarno <aurel32@debian.org>
-Build-Depends: debhelper-compat (= 12)
-Standards-Version: 4.5.1
+Build-Depends: debhelper-compat (= 13)
+Standards-Version: 4.6.2
 Rules-Requires-Root: no
 Homepage: http://www.linux-usb.org/usb-ids.html
 
