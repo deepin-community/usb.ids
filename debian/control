@@ -3,7 +3,7 @@ Section: admin
 Priority: optional
 Maintainer: Aurelien Jarno <aurel32@debian.org>
 Build-Depends: debhelper-compat (= 13)
-Standards-Version: 4.6.2
+Standards-Version: 4.7.2
 Rules-Requires-Root: no
 Homepage: http://www.linux-usb.org/usb-ids.html
 
@@ -11,8 +11,6 @@ Package: usb.ids
 Architecture: all
 Multi-Arch: foreign
 Depends: ${misc:Depends}
-Breaks: usbutils (<< 1:008-1)
-Replaces: usbutils (<< 1:008-1)
 Description: USB ID Repository
  This package contains the usb.ids file, a public repository of all known
  ID's used in USB devices: ID's of vendors, devices, subsystems and device
