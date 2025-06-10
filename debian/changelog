@@ -1,3 +1,31 @@
+usb.ids (2025.04.01-1) unstable; urgency=medium
+
+  * New upstream version.
+  * Bump Standards-Version to 4.7.2 (no changes).
+  * Remove Breaks/Replace against package versions from Stretch.
+  * Rewrite debian/copyright in Machine-readable format.
+
+ -- Aurelien Jarno <aurel32@debian.org>  Wed, 09 Apr 2025 21:11:53 +0000
+
+usb.ids (2025.01.14-1) unstable; urgency=medium
+
+  * New upstream version.
+
+ -- Aurelien Jarno <aurel32@debian.org>  Tue, 14 Jan 2025 22:51:26 +0100
+
+usb.ids (2024.12.04-1) unstable; urgency=medium
+
+  * New upstream version.
+
+ -- Aurelien Jarno <aurel32@debian.org>  Sat, 14 Dec 2024 12:12:37 +0100
+
+usb.ids (2024.07.04-1) unstable; urgency=medium
+
+  * New upstream version.
+  * Bump Standards-Version to 4.7.0 (no changes).
+
+ -- Aurelien Jarno <aurel32@debian.org>  Thu, 04 Jul 2024 23:42:19 +0200
+
 usb.ids (2024.03.18-1) unstable; urgency=medium
 
   * New upstream version.
@@ -6,25 +34,25 @@ usb.ids (2024.03.18-1) unstable; urgency=medium
 
 usb.ids (2024.01.30-1) unstable; urgency=medium
 
-  * New upstream version. 
+  * New upstream version.
 
  -- Aurelien Jarno <aurel32@debian.org>  Sat, 03 Feb 2024 16:54:22 +0100
 
 usb.ids (2024.01.20-1) unstable; urgency=medium
 
-  * New upstream version. 
+  * New upstream version.
 
  -- Aurelien Jarno <aurel32@debian.org>  Wed, 24 Jan 2024 21:30:29 +0100
 
 usb.ids (2023.11.08-1) unstable; urgency=medium
 
-  * New upstream version. 
+  * New upstream version.
 
  -- Aurelien Jarno <aurel32@debian.org>  Tue, 28 Nov 2023 00:32:09 +0100
 
 usb.ids (2023.08.24-1) unstable; urgency=medium
 
-  * New upstream version. 
+  * New upstream version.
   * Install back usb.ids in /usr/share/misc/usb.ids as requested by the Debian
     systemd Maintainers to support boot with an empty /etc and /var.
   * Fix typos in Audio Class Terminal Types, HID Usages and Languages. Patch
@@ -34,19 +62,19 @@ usb.ids (2023.08.24-1) unstable; urgency=medium
 
 usb.ids (2023.05.17-1) unstable; urgency=medium
 
-  * New upstream version. 
+  * New upstream version.
 
  -- Aurelien Jarno <aurel32@debian.org>  Sun, 09 Jul 2023 12:53:42 +0200
 
 usb.ids (2023.01.16-1) unstable; urgency=medium
 
-  * New upstream version. 
+  * New upstream version.
 
  -- Aurelien Jarno <aurel32@debian.org>  Sat, 04 Feb 2023 11:50:18 +0100
 
 usb.ids (2022.12.15-1) unstable; urgency=medium
 
-  * New upstream version. 
+  * New upstream version.
   * Bump Standards-Version to 4.6.2 (no changes).
 
  -- Aurelien Jarno <aurel32@debian.org>  Thu, 22 Dec 2022 12:06:50 +0000
