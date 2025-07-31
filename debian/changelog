@@ -1,3 +1,9 @@
+usb.ids (2025.07.26-1) unstable; urgency=medium
+
+  * New upstream version.
+
+ -- Aurelien Jarno <aurel32@debian.org>  Sat, 26 Jul 2025 23:38:49 +0200
+
 usb.ids (2025.04.01-1) unstable; urgency=medium
 
   * New upstream version.
