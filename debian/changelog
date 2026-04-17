@@ -1,3 +1,16 @@
+usb.ids (2025.12.13-1) unstable; urgency=medium
+
+  * New upstream version.
+
+ -- Aurelien Jarno <aurel32@debian.org>  Sun, 14 Dec 2025 22:03:43 +0100
+
+usb.ids (2025.09.15-1) unstable; urgency=medium
+
+  * New upstream version.
+  * Remove Rules-Requires-Root: no.
+
+ -- Aurelien Jarno <aurel32@debian.org>  Wed, 24 Sep 2025 21:12:17 +0200
+
 usb.ids (2025.07.26-1) unstable; urgency=medium
 
   * New upstream version.
